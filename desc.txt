@@ -1,6 +1,6 @@
 this is sample file
 hello
-
+// new line
 
 201803191900S%
 201803191901S%
