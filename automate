@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "automatic pushing"
+echo "automatic pushinig new "
 
 echo  "` date +%Y%m%d%H%MS%`" >> desc.txt
 #echo "hello" >> desc.txt
